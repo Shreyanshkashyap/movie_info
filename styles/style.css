@@ -1,0 +1,10 @@
+:root {
+    --primary-color: #090603;
+    --secondary-color: antiquewhite;
+}
+
+body {
+    background: var(--primary-color);
+    color: var(--secondary-color);
+    font-family: "Roboto Mono", monospace ;
+}
